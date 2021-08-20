@@ -7,7 +7,7 @@ contact@david-bartram.com
 Visit https://david-bartram.com/blog/ for my writing on Learning, Coding, DevOps, Mathematics and Tabletop Roleplaying.
 
 ### Work
-DevOps Engineer at DXC Technology UK, working on Cloud solutions (mainly AWS serverless), automation and analytics (including Grafana dashboarding and machine learning).
+DevOps Engineer at DXC Technology, working on Cloud solutions (mainly AWS serverless), automation and analytics (including Grafana dashboarding and machine learning).
 
 ### My Repos
 
