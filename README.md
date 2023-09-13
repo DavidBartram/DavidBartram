@@ -7,7 +7,7 @@ contact@david-bartram.com
 Visit https://david-bartram.com/blog/ for my writing on Learning, Coding, DevOps, Mathematics and Tabletop Roleplaying.
 
 ### Work
-Software Platform Engineer at Moixa
+Senior Software Platform Engineer at Lunar Energy
 
 ### My Repos
 
