@@ -1,10 +1,10 @@
 ## Hi, I'm Dave Bartram
 
 ### Contact Me
-contact@david-bartram.com
+david.bartram@gmail.com
 
 ### Writing
-Visit https://david-bartram.com/blog/ for my writing on Learning, Coding, DevOps, Mathematics and Tabletop Roleplaying.
+Visit https://davidbartram.github.io/ for my writing on Learning, Coding, DevOps, Mathematics and Tabletop Roleplaying.
 
 ### Work
 Senior Software Platform Engineer at Lunar Energy
